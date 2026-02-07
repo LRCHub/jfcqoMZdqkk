@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "キュートアグレッション",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-07T10:51:25.560419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キュートアグレッション - Leaks From His Laptop",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/01_キュートアグレッション_-_Leaks_From_His_Laptop_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キュートアグレッション",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/02_キュートアグレッション_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キュートアグレッション",
+      "artist": "Kitani, Tatsuya",
+      "has_synced": true,
+      "path": "select/03_キュートアグレッション_Kitani,_Tatsuya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キュートアグレッション",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/04_キュートアグレッション_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キュートアグレッション - Cute Aggression",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/05_キュートアグレッション_-_Cute_Aggression_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "キュートアグレッション / キタニタツヤ - Cute Aggression / Tatsuya Kitani",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/06_キュートアグレッション___キタニタツヤ_-_Cute_Aggression___Tatsuya_Kitani_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キュートアグレッション",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_キュートアグレッション_キタニタツヤ.txt"
+    }
+  ]
+}
